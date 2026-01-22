@@ -25,6 +25,8 @@ The dataset is located in the `bugreport_patch.txt` file within the `data` direc
 
 Please `run pre_process.py` and `run get_graph.py` to construct the data into a graph structure.
 
+Before building the graph, you need to download the `glove.6B.300d.tar.gz` file through [this link](https://drive.google.com/file/d/18KzDh9z0KE_XYnzeb1tixSry31ZWmYKY/view?usp=drive_link) and extract it to the root directory.
+
 ## File Descriptions
 
 ```
